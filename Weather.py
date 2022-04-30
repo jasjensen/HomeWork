@@ -80,6 +80,6 @@ def main():
                 print(" Try again, please!")
                 by_zip()
         else:
-            print("Unfortunately, we could not find your input. Please try again.")
+            print("Unfortunately, we could not find your request. Please try again.")
  
 main()
